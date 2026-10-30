@@ -46,7 +46,7 @@ pkg install -y git
 **3. Baixe o repositório:**
 
 ```bash
-git clone https://github.com/vinip1250-art/AIOTERMUX.git
+git clone https://github.com/Douglas439/AIOTERMUX.git
 ```
 
 Se a pasta `AIOTERMUX` já existir, entre nela em vez de clonar novamente:
